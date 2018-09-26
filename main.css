@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@font-face {
+    font-family: nyty;
+    src: url(https://use.typekit.net/pf/be/nyty/n7/l?subset_id=2&fvd=n7&ec_token=O1o6kB9jyB05i20QvhYz5KZqtmKyf4o2ZXT6V6rDk%2FMAPY4hr6YR38gkKZcJDBY1) format("woff2"), url(https://use.typekit.net/pf/be/nyty/n7/d?subset_id=2&fvd=n7&ec_token=O1o6kB9jyB05i20QvhYz5KZqtmKyf4o2ZXT6V6rDk%2FMAPY4hr6YR38gkKZcJDBY1) format("woff"), url(https://use.typekit.net/pf/be/nyty/n7/a?subset_id=2&fvd=n7&ec_token=O1o6kB9jyB05i20QvhYz5KZqtmKyf4o2ZXT6V6rDk%2FMAPY4hr6YR38gkKZcJDBY1) format("opentype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: nyty;
+    src: url(https://use.typekit.net/pf/be/nyty/n4/l?subset_id=2&fvd=n4&ec_token=O1o6kB9jyB05i20QvhYz5KZqtmKyf4o2ZXT6V6rDk%2FMAPY4hr6YR38gkKZcJDBY1) format("woff2"), url(https://use.typekit.net/pf/be/nyty/n4/d?subset_id=2&fvd=n4&ec_token=O1o6kB9jyB05i20QvhYz5KZqtmKyf4o2ZXT6V6rDk%2FMAPY4hr6YR38gkKZcJDBY1) format("woff"), url(https://use.typekit.net/pf/be/nyty/n4/a?subset_id=2&fvd=n4&ec_token=O1o6kB9jyB05i20QvhYz5KZqtmKyf4o2ZXT6V6rDk%2FMAPY4hr6YR38gkKZcJDBY1) format("opentype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: nyty;
+    src: url(https://use.typekit.net/pf/be/nyty/n5/l?subset_id=2&fvd=n5&ec_token=O1o6kB9jyB05i20QvhYz5KZqtmKyf4o2ZXT6V6rDk%2FMAPY4hr6YR38gkKZcJDBY1) format("woff2"), url(https://use.typekit.net/pf/be/nyty/n5/d?subset_id=2&fvd=n5&ec_token=O1o6kB9jyB05i20QvhYz5KZqtmKyf4o2ZXT6V6rDk%2FMAPY4hr6YR38gkKZcJDBY1) format("woff"), url(https://use.typekit.net/pf/be/nyty/n5/a?subset_id=2&fvd=n5&ec_token=O1o6kB9jyB05i20QvhYz5KZqtmKyf4o2ZXT6V6rDk%2FMAPY4hr6YR38gkKZcJDBY1) format("opentype");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: nyty;
+    src: url(https://use.typekit.net/pf/be/nyty/n6/l?subset_id=2&fvd=n6&ec_token=O1o6kB9jyB05i20QvhYz5KZqtmKyf4o2ZXT6V6rDk%2FMAPY4hr6YR38gkKZcJDBY1) format("woff2"), url(https://use.typekit.net/pf/be/nyty/n6/d?subset_id=2&fvd=n6&ec_token=O1o6kB9jyB05i20QvhYz5KZqtmKyf4o2ZXT6V6rDk%2FMAPY4hr6YR38gkKZcJDBY1) format("woff"), url(https://use.typekit.net/pf/be/nyty/n6/a?subset_id=2&fvd=n6&ec_token=O1o6kB9jyB05i20QvhYz5KZqtmKyf4o2ZXT6V6rDk%2FMAPY4hr6YR38gkKZcJDBY1) format("opentype");
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+.link-transition a {
+    transition: background 0.2s ease, color 0.2s ease; }
+    .link-transition a svg {
+      transition: fill 0.2s ease; }
+
+
+::-webkit-scrollbar {
+    display: none;
+    }
+
+
+
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
